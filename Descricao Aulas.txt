@@ -1,0 +1,15 @@
+Aula 1 foi feito tal coisa
+Aula 2 foi feito tal outra coisa
+Aula 3 foi feito isso e aquilo
+
+
+Aula 14 Imagens
+Aprendi usar o codigo que chama uma imagem:
+
+<img src="imagens/ferrari.jpg" width="600">
+
+Aula 15 Links
+Aprendi usar o codigo que usa o link interno e externo
+<a href="contato.html">Clique aqui</a>
+
+<a href="http://google.com">Google</a>
